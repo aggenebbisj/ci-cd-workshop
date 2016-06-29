@@ -1,9 +1,9 @@
 # Site settings
 title: CI and CD with GitHub
 description: A demo blog
-email: training@github.com
-twitter_username: githubtraining
-github_username:  githubteacher
+email: remko@github.com
+twitter_username: aggenebbisj
+github_username:  aggenebbisj
 baseurl:
 url: https://agg-ci-cd-workshop.herokuapp.com
 destination: site_content
