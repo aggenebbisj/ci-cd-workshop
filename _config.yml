@@ -5,7 +5,7 @@ email: training@github.com
 twitter_username: githubtraining
 github_username:  githubteacher
 baseurl:
-url: https://githubteacher-ci-cd-workshop.herokuapp.com
+url: https://agg-ci-cd-workshop.herokuapp.com
 destination: site_content
 exclude: [ 'vendor' ]
 
